@@ -53,8 +53,42 @@
             "price": 14.99,
             "inventory": 18,
             "description": "Small plant pot in glazed stoneware with a bubbled finish. Inner diameter approx. 3 3/4 in., height 5 in."
+        },
+        {
+            "id": 7,
+            "name": "2-pack Metal Napkin Rings",
+            "category": "kitchen",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F51%2F43%2F5143592a4439f5fd1681533d04c16a6fbb0c8f34.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "price": 9.99,
+            "inventory": 25,
+            "description": "Metal napkin rings with a decoration. Diameter approx. 1 1/2 in."
+        },
+        {
+            "id": 8,
+            "name": "Marble Cake Stand",
+            "category": "kitchen",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F63%2F31%2F63314fffc873d5bdb2e99baa54b7c06445708de0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_kitchen_ware%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "price": 34.99,
+            "inventory": 17,
+            "description": "Cake stand in marble with a metal base and feet underneath. Diameter 11 in. Height 3 1/4 in. Marble is a natural material, so color and texture may vary."
+        },
+        {
+            "id": 9,
+            "name": "4-pack Marble Coasters",
+            "category": "kitchen",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5c%2F00%2F5c00e3ee72ae4e2ce72d7ce7cc82076adb17b51e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_kitchen_ware%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "price": 17.99,
+            "inventory": 20,
+            "description": "Round coasters in marble with padded feet underneath. Diameter approx. 4 1/4 in. Marble is a natural material, so color and texture may vary."
+        },
+        {
+            "id": 10,
+            "name": "Small Wooden Cutting Board",
+            "category": "kitchen",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9d%2F46%2F9d463e20720076bee577cb56eb2d403ec68771c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_kitchen_ware%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "price": 12.99,
+            "inventory": 23,
+            "description": "Small cutting board in mango wood. Handle with a hole for hanging. Size 6 1/2 x 13 1/4 in."
         }
-        
-
     ]
 }

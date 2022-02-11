@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react';
+import ProductCard from './components/ProductCard'
 import './App.css';
 
 function App() {
@@ -7,12 +8,18 @@ function App() {
   useEffect(()=>{
     fetch("http://localhost:3000/home")
     .then(resp => resp.json())
-    .then(data => console.log(data))
-  })
+    .then(data => setHome(data))
+  },[])
+
+  
+
   return (
-    <div className="App">
-      
-          
+    <div className="background-container">
+      <div className="product-list">
+        { 
+          home.map(item => <ProductCard item={item}/>)
+        }
+      </div>
       
     </div>
   );
