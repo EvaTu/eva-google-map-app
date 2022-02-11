@@ -15,6 +15,9 @@ function App() {
 
   return (
     <div className="background-container">
+      <header className="header">
+      <h1>Ordin Urban Home</h1>
+      </header>
       <div className="product-list">
         { 
           home.map(item => <ProductCard item={item}/>)
