@@ -1,0 +1,15 @@
+{
+    "home" : [
+        {
+            "id": 1,
+            "name": "Rattan Hanging Basket",
+            "category": "bedroom",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fae%2F33%2Fae33e0bd5de5e72a6a18f48953708bfc16fd4356.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_decorations_pots%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "price": 17.99,
+            "inventory": 10,
+            "description": "Hanging basket in braided rattan with three cords and a metal ring at top. Diameter 6 1/4 in., height 6 1/4 in. Total length approx. 27 1/2 in."
+        }
+        
+
+    ]
+}
