@@ -8,6 +8,51 @@
             "price": 17.99,
             "inventory": 10,
             "description": "Hanging basket in braided rattan with three cords and a metal ring at top. Diameter 6 1/4 in., height 6 1/4 in. Total length approx. 27 1/2 in."
+        },
+        {
+            "id": 2,
+            "name": "King/Queen Duvet Cover Set",
+            "category": "bedroom",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fab%2F31%2Fab31172f55ca5592eee5f9838524aec098bc4b41.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "price": 49.99,
+            "inventory": 13,
+            "description": "King/queen duvet cover set in soft, woven fabric made from a lyocell and cotton blend with a printed pattern. Two pillowcases. Thread count 144."
+        },
+        {
+            "id": 3,
+            "name": "Metal Photo Frame",
+            "category": "bedroom",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7d%2Fc1%2F7dc1393dd0cdb560198ab046a07f8c14da89333b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_decorations%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "price": 24.99,
+            "inventory": 18,
+            "description": "Frame in clear glass and metal. Slide latch at one side and stand at back. Fits pictures up to 8 x 11 1/2 in. Size of frame 8 1/2 x 12 in."
+        },
+        {
+            "id": 4,
+            "name": "Large Cork-lid Scented Candle",
+            "category": "living-room",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1f%2Ffa%2F1ffa6d62a80e6c22cd5e47bc022ffa50c72888a8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "price": 17.99,
+            "inventory": 11,
+            "description": "Large scented candle in a glass holder with a cork lid. Diameter 3 1/4 in. Height 6 in. Burn time 80 hours. Scent created in collaboration with perfumers from the renowned Robertet perfume house."
+        },
+        {
+            "id": 5,
+            "name": "Large Ceramic Vase",
+            "category": "living-room",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9f%2F42%2F9f421026bb9c6131690e7a4ee6e19a84fe410749.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_decorations_vases%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "price": 34.99,
+            "inventory": 16,
+            "description": "Large, circular ceramic vase. Diameter 11 3/4 in., total height 12 1/4 in. Diameter of opening 2 1/4 in."
+        },
+        {
+            "id": 6,
+            "name": "Small Plant Pot with Bubbles",
+            "category": "living-room",
+            "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6c%2Ff8%2F6cf83761062b67af6102a9cbd3a78cc53a04b054.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_bedroom_decorations_pots%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "price": 14.99,
+            "inventory": 18,
+            "description": "Small plant pot in glazed stoneware with a bubbled finish. Inner diameter approx. 3 3/4 in., height 5 in."
         }
         
 
